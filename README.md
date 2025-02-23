@@ -8,8 +8,8 @@ Beta 0.2 / I hope Never Update
 Yeah it OpenSource because why not
 
 # 🔮 Made by
-Nuzi (Me)
-ChatGPT
+~ Nuzi(Me)
+~ ChatGPT
 
 # 🔨 FirstTime
 Yeah i firstime doing this thing
